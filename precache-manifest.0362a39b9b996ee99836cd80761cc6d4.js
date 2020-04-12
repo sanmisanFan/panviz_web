@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc89989e879357abeeeb63703870d92c",
+    "revision": "2dde13d96414ef8fd7136f5b8840edd7",
     "url": "/panviz_web/index.html"
   },
   {
-    "revision": "b2bd3cb16e8b93e5989b",
+    "revision": "c2d2f78cda1505c84a80",
     "url": "/panviz_web/static/css/main.85f4f3bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panviz_web/static/js/2.c40fca49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2bd3cb16e8b93e5989b",
-    "url": "/panviz_web/static/js/main.6f52f5e0.chunk.js"
+    "revision": "c2d2f78cda1505c84a80",
+    "url": "/panviz_web/static/js/main.43c51a2d.chunk.js"
   },
   {
     "revision": "91e5e79e3fee77a801e6",
